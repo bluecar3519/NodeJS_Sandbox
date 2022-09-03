@@ -1,0 +1,90 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "NodeJSLearn - Write - app_write",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\NodeJSLearn\\Write\\app_write.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Events - app_code",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Events\\app_code.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - FileSystem - app_inspect",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\FileSystem\\app_inspect.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Logger - app_code",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Logger\\app_code.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Logger - app_inspect",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Logger\\app_inspect.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Logger - logger",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Logger\\logger.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Path - app_inspect",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Path\\app_inspect.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Programing_With_Mosh - Wrapper - app_inspect",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Programing_With_Mosh\\Wrapper\\app_inspect.js"
+        },
+        {
+            "type": "pwa-node",
+            "request": "launch",
+            "name": "Started_VSC - Debugging - app_debugging",
+            "skipFiles": [
+                "<node_internals>/**"
+            ],
+            "program": "${workspaceFolder}\\Started_VSC\\Debugging\\app_debugging.js"
+        }
+    ]
+}
